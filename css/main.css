@@ -1,0 +1,18 @@
+html {
+  background-color: #444242;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Permanent Marker", cursive;
+  color: #444242;
+  margin: 0;
+}
+
+blockquote {
+  font-family: "IBM Plex Mono", monospace;
+  border-left: 25px double #08d6be;
+  border-bottom: 25px double #08d6be;
+  border-radius: 60px 0px 0px 60px;
+  background: #ff1616;
+}
