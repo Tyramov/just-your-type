@@ -24,3 +24,12 @@ blockquote {
   border-bottom: 25px dashed #ff1616;
   border-radius: 60px 60px 0px 0px;
 }
+.pick-word {
+  font-family: "Permanent Marker", cursive;
+  color: #08d6be;
+}
+
+.colourflip-word {
+  font-family: "Permanent Marker", cursive;
+  color: #ff1616;
+}
