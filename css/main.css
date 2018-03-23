@@ -17,6 +17,10 @@ blockquote {
   background: #ff1616;
 }
 
+.even-pane {
+  font-family: "IBM Plex Mono", monospace;
+}
+
 .top-banner {
   background-color: #fff;
   border-left: 25px double #08d6be;
